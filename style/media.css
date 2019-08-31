@@ -1,0 +1,274 @@
+@media (min-width:320px) and (max-width: 767px)
+{
+    /* ---- navbar edit ---- */
+    .navbar-default .navbar-collapse, 
+    .navbar-default .navbar-form
+    {
+        border: none;
+    }
+    .navbar-nav
+    {
+            margin: 0.5px -15px;
+    }
+    .navbar-nav>li 
+    {
+        display: block;
+		padding: 0px 0px;
+	}
+	nav li a 
+    {
+		font-size: 14px;
+	}
+    /* ---- navbar edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- about-us edit ---- */
+    .about-us .about-box
+    {
+        height:73em;
+        margin-top: 0px;
+    }
+    .content .box-a
+    {
+        margin-left: 10%;
+    }
+    .about-box .content h2
+    {
+        width: 40%;
+        font-size: 27px;
+    }
+    .content p
+    {
+        font-size: 14px;
+    }
+    /* ---- about-us edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- my-service edit ---- */
+    .my-service h1
+    {
+        font-size: 45px;
+    }
+    .my-service .part,
+    .my-service .part-t
+    {
+        height: 400px;
+    }
+    .my-service .part .part-info h3,
+    .my-service .part-t .part-info h3
+    {
+        font-size: 33px
+    }
+    .my-service .part .icon,
+    .my-service .part-t .icon
+    {
+        margin-top: 0%;
+    }
+    .my-service .part .icon i,
+    .my-service .part-t .icon i
+    {
+        margin-top: 33px;
+        font-size: 85px
+    }
+    .my-service .part .part-info,
+    .my-service .part-t .part-info
+    {
+        margin-top: 8%;
+    }
+    /* ---- my-service edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- my-work edit ---- */
+    .my-work h1
+    {
+        font-size: 45px;
+    }
+    .my-work .suffle ul li
+    {
+        font-size: 18px;
+        margin: 0px;
+        padding: 12px;
+    }
+    /* ---- my-work edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- contact-us edit ---- */
+    .contact
+    {
+        height: 750px;
+    }
+    .informations .connect span
+    {
+        font-size: 17px;
+        margin-left: 15px;
+    }
+     .informations .connect i
+    {
+        font-size: 25px;
+    }
+    .informations .icons
+    {
+        text-align: center;
+    }
+    /* ---- contact-us edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- footer edit ---- */
+    footer
+    {
+        height: 45px;
+    }
+    footer span
+    {
+        margin-top: 1.5%;
+    }
+    /* ---- footer edit ---- */  
+}
+@media (min-width:560px) and (max-width: 767px)
+{
+    .about-box .progress-part .progress-1 .animated-progress
+    {
+        margin-bottom: 25px;
+    }
+    .about-box .icons
+    {
+        margin-top: 40px;
+    }
+}
+@media (min-width: 767px) and (max-width: 992px)
+{
+    /* ---- about-us edit ---- */
+    .about-us .about-box
+    {
+        height: 815px;
+    }
+    /* ---- about-us edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- my-service edit ---- */
+    .my-service h1
+    {
+        font-size: 45px;
+    }
+    .my-service .part,
+    .my-service .part-t
+    {
+        height: 400px;
+    }
+    .my-service .part .part-info h3,
+    .my-service .part-t .part-info h3
+    {
+        font-size: 33px
+    }
+    .my-service .part .icon,
+    .my-service .part-t .icon
+    {
+        margin-top: 0%;
+    }
+    .my-service .part .icon i,
+    .my-service .part-t .icon i
+    {
+        margin-top: 33px;
+        font-size: 85px
+    }
+    .my-service .part .part-info,
+    .my-service .part-t .part-info
+    {
+        margin-top: 8%;
+    }
+    /* ---- my-service edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- my-work edit ---- */
+    .my-work h1
+    {
+        font-size: 45px;
+    }
+    .my-work .suffle ul li
+    {
+        font-size: 18px;
+        margin: 0px;
+        padding: 12px;
+    }
+     /* ---- my-work edit ---- */
+    /*-------------------------------------------------*/
+   /* ---- contact-us edit ---- */
+    .contact
+    {
+        height: 715px;
+    }
+    .contact .informations span
+    {
+        font-size: 18px;
+    }
+    
+     /* ---- contact-us edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- footer edit ---- */
+    footer
+    {
+        height: 45px;
+    }
+    footer span
+    {
+        margin-top: 1.5%;
+    }
+    /* ---- footer edit ---- */
+}
+@media (min-width: 992px) and (max-width: 1200px)
+{
+    /* ---- about-us edit ---- */
+    .about-us .about-box
+    {
+        height: 785px;
+    }
+    /* ---- about-us edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- my-service edit ---- */
+    .my-service .part,
+    .my-service .part-t
+    {
+        height: 340px;
+    }
+    .my-service .part .icon,
+    .my-service .part-t .icon
+    {
+        margin-top: 0%;
+    }
+    .my-service .part .icon i,
+    .my-service .part-t .icon i
+    {
+        margin-top: 33px;
+        font-size: 90px
+    }
+    .my-service .part .part-info,
+    .my-service .part-t .part-info
+    {
+        margin-top: 4%;
+    }
+    /* ---- my-service edit ---- */
+    /*-------------------------------------------------*/
+     /* ---- my-work edit ---- */
+    .my-work .suffle ul li
+    {
+        font-size: 19px;
+        margin: 0px;
+        padding: 12px;
+    }
+    /* ---- my-work edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- contact edit ---- */
+    .contact
+    {
+        height: 745px;
+    }
+    .contact .informations span
+    {
+        font-size: 18px;
+    }
+    /* ---- contact edit ---- */
+    /*-------------------------------------------------*/
+    /* ---- footer edit ---- */
+    footer
+    {
+        height: 45px;
+    }
+    footer span
+    {
+        margin-top: 1.5%;
+    }
+     /* ---- footer edit ---- */
+}
